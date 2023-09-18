@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FvXmeSVZiWL+bhWeSzq1Aabia8k8o8PN/kD9tibsin9QDfAjnQmrZ0WcjBwE/dIhzI2m7fw/9z/Ogl/6qA98NQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Hendrick\\source\\repos\\LearningMod\\LearningMod\\LearningMod.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hendrick\\.nuget\\packages\\pathoschild.stardew.modbuildconfig\\4.1.1\\pathoschild.stardew.modbuildconfig.4.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
